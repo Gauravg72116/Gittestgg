@@ -17,3 +17,11 @@ git push -u origin main
 git remote add origin https://github.com/Gauravg72116/Gittestgg.git
 git branch -M main
 git push -u origin main
+
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
